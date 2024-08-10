@@ -1,0 +1,12 @@
+{
+    "target": "alexscaves:luxtructosaurus",
+    "presets": {
+        "chance": 1,
+        "list": [
+            {
+                "weight": 1,
+                "id": "difficulty:boss"
+            }
+        ]
+    }
+}

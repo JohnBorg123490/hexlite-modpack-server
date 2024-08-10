@@ -1,0 +1,13 @@
+filename = 'lifesteal-7.0.1+1.20.1.jar'
+name = 'Lifesteal [Fabric/Neoforge]'
+side = 'both'
+
+[download]
+hash = '313fd55a9e61a54b292815b34529aedb8cb32324'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5518583
+project-id = 645185

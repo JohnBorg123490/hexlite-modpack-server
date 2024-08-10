@@ -1,0 +1,12 @@
+{
+    "target": "minecraft:skeleton",
+    "presets": {
+        "chance": 1,
+        "list": [
+            {
+                "weight": 1,
+                "id": "difficulty:skeleton"
+            }
+        ]
+    }
+}

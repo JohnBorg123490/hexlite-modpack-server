@@ -1,0 +1,13 @@
+filename = 'ice_and_fire_spellbooks-2.2.0-1.20.1.jar'
+name = 'Ice and Fire: Spellbooks'
+side = 'both'
+
+[download]
+hash = '15e3bdebd6e2a6592eedb53307cb41eb788a0928'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5203817
+project-id = 977855

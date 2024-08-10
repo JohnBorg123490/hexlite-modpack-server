@@ -1,0 +1,13 @@
+filename = 'Trading_Players_1_3_3.jar'
+name = 'Trading Players'
+side = 'both'
+
+[download]
+hash = '6d24c1d369277a78cc7f00def50aad4b59524385'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5379937
+project-id = 364771

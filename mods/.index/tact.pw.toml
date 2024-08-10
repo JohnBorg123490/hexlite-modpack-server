@@ -1,0 +1,13 @@
+filename = 'tact-1.1.8+1.20.1.jar'
+name = "TACT - Tiny Alex's Caves Tweaks"
+side = 'both'
+
+[download]
+hash = 'b0be7b1a366b6252943ec95d60c2506ef74f81df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5482785
+project-id = 926263

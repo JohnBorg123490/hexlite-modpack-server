@@ -1,0 +1,32 @@
+{
+    "scale_pehkui": [
+        {
+            "scale": 1.2,
+            "scale_types": [
+                "pehkui:height",
+                "pehkui:width"
+            ],
+            "operation": "set"
+        },
+        {
+            "scale": 1,
+            "scale_types": [
+                "pehkui:hitbox_width",
+                "pehkui:hitbox_height"
+
+            ],
+            "operation": "set"
+        }
+    ],
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Health increase",
+            "amount": {
+                "min": 0.15,
+                "max": 0.30
+            },
+            "operation": "multiply_base"
+        }
+    ]
+}

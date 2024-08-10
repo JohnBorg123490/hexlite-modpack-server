@@ -1,0 +1,51 @@
+{
+    "potion_effects": [
+        {
+            "id": "minecraft:glowing",
+            "hide_particles": true
+        }
+    ],
+    "scale_pehkui": [
+        {
+            "scale": 2.5,
+            "scale_types": [
+                "pehkui:height",
+                "pehkui:width"
+            ],
+            "operation": "set"
+        },
+        {
+            "scale": 0.75,
+            "scale_types": [
+                "pehkui:hitbox_width",
+                "pehkui:hitbox_height"
+
+            ],
+            "operation": "set"
+        }
+    ],
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Buff",
+            "amount": {
+                "min": 2,
+                "max": 4
+            },
+            "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.armor",
+            "modifier_name": "Buff",
+            "amount": 6,
+            "operation": "addition"
+        },
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Buff",
+            "amount": 20,
+            "operation": "addition"
+        }
+    ],
+    "silent": 1
+}

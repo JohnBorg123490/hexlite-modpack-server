@@ -1,0 +1,14 @@
+name = "Realm RPG: Sea Dwellers"
+filename = "realmrpg_seadwellers_2.9.9_forge_1.20.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f6d203ddb9590c613f644e163fdc1e6af7f7c36e"
+
+[update]
+[update.curseforge]
+file-id = 5343785
+project-id = 536530

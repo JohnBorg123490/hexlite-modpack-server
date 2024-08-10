@@ -1,0 +1,19 @@
+{
+    "potion_effects": [
+        {
+            "id": "minecraft:glowing",
+            "hide_particles": true
+        }
+    ],
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "Health increase",
+            "amount": {
+                "min": 3,
+                "max": 5
+            },
+            "operation": "set"
+        }
+    ]
+}

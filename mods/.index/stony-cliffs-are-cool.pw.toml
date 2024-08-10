@@ -1,0 +1,14 @@
+name = "Stony Cliffs Are Cool"
+filename = "StonyCliffsLithostitched-v1.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7ba7d2629869b7923fdb7be5313ecd34119e16fa"
+
+[update]
+[update.curseforge]
+file-id = 5259152
+project-id = 939211

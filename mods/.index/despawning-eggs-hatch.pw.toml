@@ -1,0 +1,14 @@
+name = "Despawning Eggs Hatch"
+filename = "despawningeggshatch-1.20.1-4.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e783385755cba8e63b92d4fb6dbfca6ed27c0a61"
+
+[update]
+[update.curseforge]
+file-id = 4965149
+project-id = 347608

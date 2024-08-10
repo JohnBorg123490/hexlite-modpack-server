@@ -1,0 +1,42 @@
+{
+  "startingValue" : 25,
+  "minValue" : 0,
+  "maxValue" : 100,
+  "changePerSecond" : 0,
+  "mode" : {
+    "type" : "server_wide"
+  },
+  "groupBonus" : "1 + 0.05 * (areaPlayerCount - 1)",
+  "groupBonusRadius" : 128,
+  "idleMultiplier" : 1,
+  "afkMessage" : false,
+  "timeBeforeAfk" : 120,
+  "sleepWarningMessage": false,
+  "multipliers" : {
+    "lunarMultipliers" : [1.4, 1.075, 1.05, 1.0, 0.95, 1.0, 1.05, 1.075],
+    "locationMultipliers" : [
+      {
+        "scale" : 1.25,
+        "dimensions" : ["minecraft:the_nether"]
+      },
+      {
+        "scale" : 1.5,
+        "dimensions" : ["minecraft:the_end"]
+      },
+      {
+        "scale" : 1.025,
+        "dimensions" : ["minecraft:overworld"],
+        "biomes" : ["minecraft:swamp", "minecraft:swamp_hills"]
+      }
+    ]
+  },
+  "mutators" : {
+    "onBlightKilled" : "difficulty",
+    "onHostileKilled" : "difficulty",
+    "onPeacefulKilled" : "difficulty",
+    "onPlayerKilled" : "difficulty",
+    "onPlayerDeath" : "difficulty",
+    "onPlayerSleep" : "difficulty",
+    "byEntity" : []
+  }
+}

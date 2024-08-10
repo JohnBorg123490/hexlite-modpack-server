@@ -1,0 +1,13 @@
+filename = 'naturalistdelight-1.0.0-1.20.1.jar'
+name = 'Naturalist Delight'
+side = 'both'
+
+[download]
+hash = '3dd062cb250aa1cdeb9211460f52dd7b41e7855f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5575198
+project-id = 1073033

@@ -1,0 +1,13 @@
+filename = 'citadel-2.5.6-1.20.1.jar'
+name = 'Citadel'
+side = 'both'
+
+[download]
+hash = '617da008667b182a112ad2a3607e6641593a8f5f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5559513
+project-id = 331936

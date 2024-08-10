@@ -13,15 +13,8 @@ whitelist.json
 server.properties
 
 # Mod-related directories
-mods/
-config/
-defaultconfigs/
-kubejs/
 libraries/
 patchouli_books/
-
-# Resource packs
-resourcepacks/
 
 # Local configuration
 rhino.local.properties

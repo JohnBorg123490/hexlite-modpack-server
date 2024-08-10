@@ -1,0 +1,14 @@
+name = "Modonomicon"
+filename = "modonomicon-1.20.1-forge-1.69.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/692GClaE/versions/HwrbinpU/modonomicon-1.20.1-forge-1.69.0.jar"
+hash-format = "sha512"
+hash = "596aec2c13007f6443a98d499364dd7169cdff863180ea319aa1877039632555c8b2dbdda665dcc0e3333cd22f20523f9936e0df5bbb085bd6092442652d1eb6"
+
+[update]
+[update.modrinth]
+mod-id = "692GClaE"
+version = "HwrbinpU"
