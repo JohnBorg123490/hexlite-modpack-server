@@ -1,0 +1,59 @@
+# Minecraft server-specific files
+world/
+logs/
+crash-reports/
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+usercache.json
+whitelist.json
+
+# Server properties (may contain sensitive information)
+server.properties
+
+# Mod-related directories
+mods/
+config/
+defaultconfigs/
+kubejs/
+libraries/
+patchouli_books/
+
+# Resource packs
+resourcepacks/
+
+# Local configuration
+rhino.local.properties
+
+# Forge installer and logs
+forge-*.jar
+forge-*.jar.log
+
+# Runtime files
+*.log
+*.log.gz
+.mixin.out/
+
+# User-specific files
+user_jvm_args.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files (uncomment if needed)
+# .idea/
+# .vscode/
+
+# Keep scripts
+!run.bat
+!run.sh
+
+# Keep parse script
+!parse_clientside.ts
